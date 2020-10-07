@@ -1,3 +1,0 @@
-This is just a simple and a basic chat box type thing which uses your voice commands to process pre-programmed activities like 
-cracking a joke whenever you ask or it can open a website on default browser.
-There is a lot of work left to make this a perfect chatbox which has answer to all your questions....
